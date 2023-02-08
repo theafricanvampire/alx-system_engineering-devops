@@ -1,2 +1,2 @@
 #!/bin/bash
-prints path of current working directory
+#shell scripting file
