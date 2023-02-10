@@ -1,2 +1,2 @@
 #!/bin/bash
-chown IF [guillaume]; then hello:betty 
+chown --reference=guillaume hello:betty 
